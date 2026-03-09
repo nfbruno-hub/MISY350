@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "email": "admin@school.edu",
+        "full_name": "System Admin",
+        "password": "123ssag@43AE",
+        "role": "Admin",
+        "registered_at": "2026-03-08 15:47:32.583451"
+    },
+    {
+        "id": "5f3066d0-fd38-403b-8bf2-82dca9604093",
+        "email": "nfbruno@udel.edu",
+        "full_name": "Nick Bruno",
+        "password": "WYpvg8wLSNDFpxp",
+        "role": "Instructor",
+        "registered_at": "2026-03-08 15:48:48.300075"
+    }
+]
